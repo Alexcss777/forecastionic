@@ -1,0 +1,7 @@
+{
+  "name": "chartapi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
